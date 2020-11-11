@@ -24,7 +24,7 @@
     "rollup-plugin-typescript2": "0.29.0",
     "@rollup/plugin-virtual": "2.0.3",
     "webpack": "4.44.2",
-    "@types/webpack": "4.41.24",
+    "@types/webpack": "4.41.25",
     "webpack-virtual-modules": "0.3.2",
     "child-process-promise": "2.2.1",
     "memfs": "3.2.0",
